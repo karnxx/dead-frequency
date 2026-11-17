@@ -924,8 +924,6 @@ echo
 
 echo -e "${BWHITE}${BOLD}=====================================================================================================${RESET}"
 
-cat "$(dirname "$0")/jscare.ans"
-
 echo
 echo
 echo -e "${RED}boo scary scary${RESET}"
